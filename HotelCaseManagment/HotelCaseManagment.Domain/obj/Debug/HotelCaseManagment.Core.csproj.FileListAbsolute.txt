@@ -1,0 +1,6 @@
+C:\Users\wilirambo\source\repos\HotelCaseManagment\HotelCaseManagment.Domain\bin\Debug\HotelCaseManagment.Domain.dll
+C:\Users\wilirambo\source\repos\HotelCaseManagment\HotelCaseManagment.Domain\bin\Debug\HotelCaseManagment.Domain.pdb
+C:\Users\wilirambo\source\repos\HotelCaseManagment\HotelCaseManagment.Domain\obj\Debug\HotelCaseManagment.Core.csproj.CoreCompileInputs.cache
+C:\Users\wilirambo\source\repos\HotelCaseManagment\HotelCaseManagment.Domain\obj\Debug\HotelCaseManagment.Domain.dll
+C:\Users\wilirambo\source\repos\HotelCaseManagment\HotelCaseManagment.Domain\obj\Debug\HotelCaseManagment.Domain.pdb
+C:\Users\wilirambo\source\repos\HotelCaseManagment\HotelCaseManagment.Domain\obj\Debug\HotelCaseManagment.Core.csprojResolveAssemblyReference.cache
